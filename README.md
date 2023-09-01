@@ -45,7 +45,7 @@ For optimal performance and accurate graphs, please install the <b> Mapping Tool
 
 ### How to use
 
-```
+```matlab
 % Intialize some data 
 x = linspace(0, 4 * pi, 20);
 y_sinx = sin(x);
